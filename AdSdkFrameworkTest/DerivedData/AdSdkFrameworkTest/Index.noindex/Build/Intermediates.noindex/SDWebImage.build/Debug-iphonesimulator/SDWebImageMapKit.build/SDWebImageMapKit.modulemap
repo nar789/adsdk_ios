@@ -1,0 +1,4 @@
+module SDWebImageMapKit {
+umbrella header "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/SourcePackages/checkouts/SDWebImage/SDWebImageMapKit/include/SDWebImageMapKit/SDWebImageMapKit.h"
+export *
+}

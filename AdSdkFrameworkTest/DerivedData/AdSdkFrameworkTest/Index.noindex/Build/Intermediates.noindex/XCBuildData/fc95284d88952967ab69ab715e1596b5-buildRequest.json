@@ -1,0 +1,62 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "94a0ec07b877fa05a9aef774c91530c24fac220a831beee4fb890ceb95d5fd47"
+    },
+    {
+      "guid" : "99327fbf1c130a7726b1b4adb51ff7a6887e11d32435ce54daf748f7fe2211de"
+    }
+  ],
+  "containerPath" : "/Users/leejunghun/workspace/AdSdkFrameworkTest/AdSdkFrameworkTest.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

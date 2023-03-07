@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>17A21755-CBE2-4C8F-89D7-2D68ED9CE0DA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>17A21755-CBE2-4C8F-89D7-2D68ED9CE0DA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AdSdkFrameworkTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AdSdkFrameworkTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AdSdkFrameworkTest</string>
+			<key>timeStartedRecording</key>
+			<real>699910512.73760605</real>
+			<key>timeStoppedRecording</key>
+			<real>699910513.04870105</real>
+			<key>title</key>
+			<string>Build AdSdkFrameworkTest</string>
+			<key>uniqueIdentifier</key>
+			<string>17A21755-CBE2-4C8F-89D7-2D68ED9CE0DA</string>
+		</dict>
+		<key>18F3E9F4-632C-4DB3-A21C-7ACA5DC94568</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>18F3E9F4-632C-4DB3-A21C-7ACA5DC94568.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AdSdkFrameworkTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AdSdkFrameworkTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AdSdkFrameworkTest</string>
+			<key>timeStartedRecording</key>
+			<real>699910594.40412104</real>
+			<key>timeStoppedRecording</key>
+			<real>699910595.78393805</real>
+			<key>title</key>
+			<string>Build AdSdkFrameworkTest</string>
+			<key>uniqueIdentifier</key>
+			<string>18F3E9F4-632C-4DB3-A21C-7ACA5DC94568</string>
+		</dict>
+		<key>248B4CD4-A277-4CFD-A516-14F5C0BAA593</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>248B4CD4-A277-4CFD-A516-14F5C0BAA593.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AdSdkFrameworkTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AdSdkFrameworkTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AdSdkFrameworkTest</string>
+			<key>timeStartedRecording</key>
+			<real>699910326.28978705</real>
+			<key>timeStoppedRecording</key>
+			<real>699910327.41558003</real>
+			<key>title</key>
+			<string>Build AdSdkFrameworkTest</string>
+			<key>uniqueIdentifier</key>
+			<string>248B4CD4-A277-4CFD-A516-14F5C0BAA593</string>
+		</dict>
+		<key>27DCB89B-0F8C-4321-AF27-33C203505892</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>27DCB89B-0F8C-4321-AF27-33C203505892.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AdSdkFrameworkTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AdSdkFrameworkTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AdSdkFrameworkTest</string>
+			<key>timeStartedRecording</key>
+			<real>699910432.43245995</real>
+			<key>timeStoppedRecording</key>
+			<real>699910433.77159905</real>
+			<key>title</key>
+			<string>Build AdSdkFrameworkTest</string>
+			<key>uniqueIdentifier</key>
+			<string>27DCB89B-0F8C-4321-AF27-33C203505892</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,37 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "a760f52db5bdf4b9cf5a6af44c3b47d534d53af788f8e17937c4e36cba85f3c5"
+build_start_time: [1678217162, 173073053]
+build_end_time: [1678217163, 319713115]
+inputs:
+  ? "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/SourcePackages/checkouts/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/AnimatedImage.swift"
+  : !dirty [1678217160, 273906230]
+  ? "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/SourcePackages/checkouts/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/Backports/Backport.swift"
+  : !dirty [1678217160, 274037837]
+  ? "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/SourcePackages/checkouts/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/Backports/OnChange.swift"
+  : !dirty [1678217160, 274227619]
+  ? "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/SourcePackages/checkouts/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/Backports/Overlay.swift"
+  : !dirty [1678217160, 274317741]
+  ? "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/SourcePackages/checkouts/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/Backports/StateObject.swift"
+  : !dirty [1678217160, 274405241]
+  ? "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/SourcePackages/checkouts/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/Image.swift"
+  : !dirty [1678217160, 274482488]
+  ? "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/SourcePackages/checkouts/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/ImageManager.swift"
+  : !dirty [1678217160, 274567365]
+  ? "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/SourcePackages/checkouts/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/ImagePlayer.swift"
+  : !dirty [1678217160, 274652004]
+  ? "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/SourcePackages/checkouts/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/ImageViewWrapper.swift"
+  : !dirty [1678217160, 274955749]
+  ? "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/SourcePackages/checkouts/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/Indicator/ActivityIndicator.swift"
+  : !dirty [1678217160, 275089979]
+  ? "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/SourcePackages/checkouts/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/Indicator/Indicator.swift"
+  : !dirty [1678217160, 275259971]
+  ? "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/SourcePackages/checkouts/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/Indicator/ProgressIndicator.swift"
+  : !dirty [1678217160, 275485038]
+  ? "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/SourcePackages/checkouts/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/SDWebImageSwiftUI.swift"
+  : !dirty [1678217160, 275683403]
+  ? "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/SourcePackages/checkouts/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/SwiftUICompatibility.swift"
+  : !dirty [1678217160, 275759696]
+  ? "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/SourcePackages/checkouts/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/Transition/Transition.swift"
+  : !dirty [1678217160, 275880098]
+  ? "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/SourcePackages/checkouts/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/WebImage.swift"
+  : !dirty [1678217160, 276070833]

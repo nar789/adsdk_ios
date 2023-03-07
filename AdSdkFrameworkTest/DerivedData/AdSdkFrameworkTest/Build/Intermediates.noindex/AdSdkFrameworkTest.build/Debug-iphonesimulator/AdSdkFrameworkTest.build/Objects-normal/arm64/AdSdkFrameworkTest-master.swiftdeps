@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "377e4d387075ccc4062b16eb5af29a1e2e7f463db636515491c3501f9779f901"
+build_start_time: [1678217794, 805665016]
+build_end_time: [1678217795, 782586097]
+inputs:
+  "/Users/leejunghun/workspace/AdSdkFrameworkTest/AdSdkFrameworkTest/AdSdkFrameworkTestApp.swift": [1678214817, 626044750]
+  "/Users/leejunghun/workspace/AdSdkFrameworkTest/AdSdkFrameworkTest/ContentView.swift": [1678217711, 123543262]

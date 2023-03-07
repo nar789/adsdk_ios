@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "1970fe21eb7aef64216e32a625d117e7b5d9da481a22e18393126639a6f83852"
+build_start_time: [1678217526, 386677980]
+build_end_time: [1678217527, 162180900]
+inputs:
+  "/Users/leejunghun/workspace/AdSdkFramework/AdSdkFramework/core/AdSdk.swift": [1678216913, 348903179]
+  "/Users/leejunghun/workspace/AdSdkFramework/AdSdkFramework/core/AdSdkImpl.swift": [1678217341, 358527183]
+  "/Users/leejunghun/workspace/AdSdkFramework/AdSdkFramework/core/HttpClient.swift": [1678211314, 620611190]
+  "/Users/leejunghun/workspace/AdSdkFramework/AdSdkFramework/model/RequestCreateModel.swift": [1678217508, 308897972]
+  "/Users/leejunghun/workspace/AdSdkFramework/AdSdkFramework/model/RequestOnModel.swift": [1678217408, 528588771]
+  "/Users/leejunghun/workspace/AdSdkFramework/AdSdkFramework/model/ResponseCreateModel.swift": [1678217508, 296668052]
+  "/Users/leejunghun/workspace/AdSdkFramework/AdSdkFramework/model/UserInfo.swift": [1678217500, 62062501]
+  "/Users/leejunghun/workspace/AdSdkFramework/AdSdkFramework/views/AdSdkWebView.swift": [1678217525, 169472217]
+  "/Users/leejunghun/workspace/adsdk/adsdk/extension/Date.swift": [1678215557, 383455991]
+  "/Users/leejunghun/workspace/adsdk/adsdk/extension/UIImageView.swift": [1678215571, 720235824]
+  "/Users/leejunghun/workspace/adsdk/adsdk/extension/URL.swift": [1678215563, 622922897]

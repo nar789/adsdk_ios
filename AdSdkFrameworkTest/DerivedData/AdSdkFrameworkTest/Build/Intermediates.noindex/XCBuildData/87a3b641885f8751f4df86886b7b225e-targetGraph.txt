@@ -1,0 +1,11 @@
+Target dependency graph (5 targets)
+SDWebImage in SDWebImage, no dependencies
+SDWebImage in SDWebImage, depends on:
+SDWebImage in SDWebImage (explicit)
+SDWebImageSwiftUI in SDWebImageSwiftUI, depends on:
+SDWebImage in SDWebImage (explicit)
+SDWebImageSwiftUI in SDWebImageSwiftUI, depends on:
+SDWebImageSwiftUI in SDWebImageSwiftUI (explicit)
+SDWebImage in SDWebImage (explicit)
+AdSdkFrameworkTest in AdSdkFrameworkTest, depends on:
+SDWebImageSwiftUI in SDWebImageSwiftUI (explicit)

@@ -1,0 +1,10 @@
+framework module AdSdkFramework {
+  umbrella header "AdSdkFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module AdSdkFramework.__Swift {
+  exclude header "AdSdkFramework-Swift.h"
+}

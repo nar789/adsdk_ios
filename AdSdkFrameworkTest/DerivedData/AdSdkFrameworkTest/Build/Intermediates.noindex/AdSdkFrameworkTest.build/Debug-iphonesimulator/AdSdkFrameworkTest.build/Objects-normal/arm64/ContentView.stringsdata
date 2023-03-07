@@ -1,0 +1,20 @@
+{
+  "source": "/Users/leejunghun/workspace/AdSdkFrameworkTest/AdSdkFrameworkTest/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Click -> Create AD"
+      },
+      {
+        "comment": "",
+        "key": "뒤로가기"
+      },
+      {
+        "comment": "",
+        "key": "닫기"
+      }
+    ]
+  },
+  "version": 1
+}

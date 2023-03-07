@@ -1,0 +1,35 @@
+Target dependency graph (17 targets)
+SDWebImage in SDWebImage, no dependencies
+SDWebImage in SDWebImage, depends on:
+SDWebImage in SDWebImage (explicit)
+SDWebImageSwiftUI in SDWebImageSwiftUI, depends on:
+SDWebImage in SDWebImage (explicit)
+SDWebImageSwiftUI in SDWebImageSwiftUI, depends on:
+SDWebImageSwiftUI in SDWebImageSwiftUI (explicit)
+SDWebImage in SDWebImage (explicit)
+AdSdkFramework in AdSdkFramework, depends on:
+SDWebImageSwiftUI in SDWebImageSwiftUI (explicit)
+SDWebImage in SDWebImage, no dependencies
+SDWebImage in SDWebImage, depends on:
+SDWebImage in SDWebImage (explicit)
+SDWebImageSwiftUI in SDWebImageSwiftUI, depends on:
+SDWebImage in SDWebImage (explicit)
+SDWebImageSwiftUI in SDWebImageSwiftUI, depends on:
+SDWebImageSwiftUI in SDWebImageSwiftUI (explicit)
+SDWebImage in SDWebImage (explicit)
+AdSdkFramework in AdSdkFramework, depends on:
+SDWebImageSwiftUI in SDWebImageSwiftUI (explicit)
+SDWebImage in SDWebImage, no dependencies
+SDWebImage in SDWebImage, depends on:
+SDWebImage in SDWebImage (explicit)
+SDWebImageSwiftUI in SDWebImageSwiftUI, depends on:
+SDWebImage in SDWebImage (explicit)
+SDWebImageSwiftUI in SDWebImageSwiftUI, depends on:
+SDWebImageSwiftUI in SDWebImageSwiftUI (explicit)
+SDWebImage in SDWebImage (explicit)
+AdSdkFramework in AdSdkFramework, depends on:
+SDWebImageSwiftUI in SDWebImageSwiftUI (explicit)
+AdSdkFrameworkTest in AdSdkFrameworkTest, depends on:
+AdSdkFramework in AdSdkFramework (implicit dependency via file 'AdSdkFramework.framework' in build phase 'Link Binary')
+AdSdkFrameworkTest in AdSdkFrameworkTest, depends on:
+AdSdkFramework in AdSdkFramework (implicit dependency via file 'AdSdkFramework.framework' in build phase 'Link Binary')

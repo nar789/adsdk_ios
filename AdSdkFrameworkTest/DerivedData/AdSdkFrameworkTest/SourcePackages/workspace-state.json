@@ -1,0 +1,44 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "sdwebimage",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/SDWebImage/SDWebImage.git",
+          "name" : "SDWebImage"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "fb50c1d20f24db5322b2f8f379de3618f75fe08e",
+            "version" : "5.15.5"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "SDWebImage"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "sdwebimageswiftui",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/SDWebImage/SDWebImageSwiftUI.git",
+          "name" : "SDWebImageSwiftUI"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "61fefe9c284fd41ddef77d02749e88f00c305196",
+            "version" : "2.2.2"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "SDWebImageSwiftUI"
+      }
+    ]
+  },
+  "version" : 5
+}

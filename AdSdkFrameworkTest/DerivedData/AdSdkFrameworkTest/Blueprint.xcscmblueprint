@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E28E36D423EC87798E52E2BF482E9F7A1E6479D6" : 0,
+    "F1579F90DEBA6361B4976C889DFEAF7F39E9A6EF" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5DA3D226-06E4-4FEF-B485-80A67CF815B9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E28E36D423EC87798E52E2BF482E9F7A1E6479D6" : "AdSdkFrameworkTest\/DerivedData\/AdSdkFrameworkTest\/SourcePackages\/checkouts\/SDWebImage\/",
+    "F1579F90DEBA6361B4976C889DFEAF7F39E9A6EF" : "AdSdkFrameworkTest\/DerivedData\/AdSdkFrameworkTest\/SourcePackages\/checkouts\/SDWebImageSwiftUI\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AdSdkFrameworkTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AdSdkFrameworkTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/leejunghun\/workspace\/AdSdkFrameworkTest\/DerivedData\/AdSdkFrameworkTest\/SourcePackages\/repositories\/SDWebImage-990602f9",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E28E36D423EC87798E52E2BF482E9F7A1E6479D6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/leejunghun\/workspace\/AdSdkFrameworkTest\/DerivedData\/AdSdkFrameworkTest\/SourcePackages\/repositories\/SDWebImageSwiftUI-4afe3317",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F1579F90DEBA6361B4976C889DFEAF7F39E9A6EF"
+    }
+  ]
+}

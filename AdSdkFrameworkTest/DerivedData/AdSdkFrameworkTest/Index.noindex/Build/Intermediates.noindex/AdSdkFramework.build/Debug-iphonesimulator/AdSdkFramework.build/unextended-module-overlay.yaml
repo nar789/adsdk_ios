@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/Index.noindex/Build/Products/Debug-iphonesimulator/AdSdkFramework.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/leejunghun/workspace/AdSdkFrameworkTest/DerivedData/AdSdkFrameworkTest/Index.noindex/Build/Intermediates.noindex/AdSdkFramework.build/Debug-iphonesimulator/AdSdkFramework.build/unextended-module.modulemap",
+    }]
+  }]
+}
